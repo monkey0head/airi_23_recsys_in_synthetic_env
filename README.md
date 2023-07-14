@@ -42,6 +42,6 @@ Sber AI Lab совместно с университетом ИТМО разра
 с exploration или использовать различные доступные RL-based подходы к рекомендациям, такие как [DDPG](https://dl.acm.org/doi/abs/10.1145/3523227.3551485).
 
 ### Полезные ссылки
-[Обзор симуляторов для рекомендательных систем](https://arxiv.org/pdf/2206.11338.pdf)
-[Симулятор для рекомендательных систем Sim4Rec](https://github.com/sb-ai-lab/Sim4Rec)
-[Библиотека алгоритмов для рекомендательных систем RePlay](https://github.com/sb-ai-lab/RePlay/)
+- [Обзор симуляторов для рекомендательных систем](https://arxiv.org/pdf/2206.11338.pdf)
+- [Симулятор для рекомендательных систем Sim4Rec](https://github.com/sb-ai-lab/Sim4Rec)
+- [Библиотека алгоритмов для рекомендательных систем RePlay](https://github.com/sb-ai-lab/RePlay/)
