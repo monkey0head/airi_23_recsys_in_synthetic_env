@@ -46,5 +46,5 @@ Sber AI Lab совместно с университетом ИТМО разра
 - [Симулятор для рекомендательных систем Sim4Rec](https://github.com/sb-ai-lab/Sim4Rec)
 - [Библиотека алгоритмов для рекомендательных систем RePlay](https://github.com/sb-ai-lab/RePlay/)
 
-### 
+### Требования для работы над проектом
 Для работы над проектом требуется linux/mac os + python3.9. Если у вас нет возможности выполнить эти требования, работать можно на [Kaggle](kaggle.com), все необходимые для этого шаги описаны в [ноутбуке](https://github.com/monkey0head/airi_23_recsys_in_synthetic_env/blob/main/kaggle_setup.ipynb). 
