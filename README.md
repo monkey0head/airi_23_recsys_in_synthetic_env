@@ -48,3 +48,5 @@ Sber AI Lab совместно с университетом ИТМО разра
 
 ### Требования для работы над проектом
 Для работы над проектом требуется linux/mac os + python3.9. Если у вас нет возможности выполнить эти требования, работать можно на [Kaggle](kaggle.com), все необходимые для этого шаги описаны в [ноутбуке](https://github.com/monkey0head/airi_23_recsys_in_synthetic_env/blob/main/kaggle_setup.ipynb). 
+
+### [Видеопрезентация проекта](https://disk.yandex.ru/i/_bAJZhWqT7cG-Q)
